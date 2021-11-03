@@ -101,8 +101,6 @@ namespace Classes_01
             Console.WriteLine("Улица: " + myAddress.Street);
             Console.WriteLine("Номер дома: " + myAddress.House);
             Console.WriteLine("Квартира: " + myAddress.Apartment);
-
-
         }
     }
 }
